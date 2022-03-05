@@ -1,7 +1,7 @@
 #baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 #baseURL = "http://examplesite.org/"
 publishdir = "docs"
-baseURL = "http://LePetitRuisseauZen.github.io"
+baseURL = "https://lepetitruisseauzen.github.io/"
 title = "AuRuisseauZen"
 theme = "universal"
 themesDir = "./themes"
