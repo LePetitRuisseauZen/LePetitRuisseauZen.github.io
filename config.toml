@@ -202,7 +202,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "AuRuisseauZen"
 
     logo = "img/logo-zen.png"
     logo_small = "img/logo-small.png"
